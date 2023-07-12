@@ -1,0 +1,39 @@
+.container {
+    width: 300px;
+    margin: 150px auto 20px auto;
+    padding: 5px 20px 20px 20px;
+    text-align: center;
+    background-color: rgb(235, 206, 245);
+    box-shadow: 2px 2px 4px 0 black;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: rgba(145, 159, 252, 0.996);
+    
+  }
+  
+  .converter {
+    margin-bottom: 20px;
+    
+  }
+  
+  input[type="number"] {
+    width: 150px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: 0px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 5px ;
+    border: 0px;
+    border-radius: 3px;
+  }
+  body{
+    background-color: rgba(170, 181, 255, 0.91);
+  }
+  label{
+    border: 2px solid pink;
+  }
